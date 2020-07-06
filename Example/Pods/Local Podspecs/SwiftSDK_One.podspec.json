@@ -1,0 +1,22 @@
+{
+  "name": "SwiftSDK_One",
+  "version": "0.1.0",
+  "summary": "A short description of SwiftSDK_One.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hzcoding@126.com/SwiftSDK_One",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hzcoding@126.com": "hzcoding@126.com"
+  },
+  "source": {
+    "git": "https://github.com/hzcoding@126.com/SwiftSDK_One.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SwiftSDK_One/Classes/**/*"
+}

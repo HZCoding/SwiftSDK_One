@@ -1,0 +1,16 @@
+PODS:
+  - SwiftSDK_One (0.1.0)
+
+DEPENDENCIES:
+  - SwiftSDK_One (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftSDK_One:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftSDK_One: 28d66ff936c7d29dec4a556c02ca7f015c8f2752
+
+PODFILE CHECKSUM: 0a674bb2bfd6236fa8965e8258d4bf8bbd6d380c
+
+COCOAPODS: 1.9.3
