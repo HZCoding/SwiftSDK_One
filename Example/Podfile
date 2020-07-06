@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SwiftSDK_One_Tests' do
+  pod 'SwiftSDK_One', :path => '../'
+  
+  
+end
